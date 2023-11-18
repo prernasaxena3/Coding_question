@@ -6,4 +6,7 @@ DAY1 : QUESTION 1: https://www.hackerrank.com/challenges/chocolate-feast/problem
 DAY2 : QUESTION 1: https://www.hackerrank.com/challenges/lisa-workbook/problem?isFullScreen=true
 
 DAY3: QUESTION 1: https://www.hackerrank.com/challenges/cut-the-sticks/problem?isFullScreen=true
+
 DAY4: QUESTION 1: https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true
+      QUESTION 2: https://www.hackerrank.com/challenges/tutorial-intro/problem?isFullScreen=true
+      QUESTION 3: https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
