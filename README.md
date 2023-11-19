@@ -12,3 +12,5 @@ DAY4: QUESTION 1: https://www.hackerrank.com/challenges/sock-merchant/problem?is
       QUESTION 3: https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true
 
 DAY5: QUESTION 1: https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true
+      QUESTION 2: https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=true
+      QUESTION 3: https://www.hackerrank.com/challenges/correctness-invariant/problem?isFullScreen=true
