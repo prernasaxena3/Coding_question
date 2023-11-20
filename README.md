@@ -14,3 +14,6 @@ DAY4: QUESTION 1: https://www.hackerrank.com/challenges/sock-merchant/problem?is
 DAY5: QUESTION 1: https://www.hackerrank.com/challenges/insertionsort1/problem?isFullScreen=true
       QUESTION 2: https://www.hackerrank.com/challenges/insertionsort2/problem?isFullScreen=true
       QUESTION 3: https://www.hackerrank.com/challenges/correctness-invariant/problem?isFullScreen=true
+
+DAY6: QUESTION 1: https://www.hackerrank.com/challenges/runningtime/problem?isFullScreen=true
+      QUESTION 2: https://www.hackerrank.com/challenges/quicksort1/problem?isFullScreen=true
