@@ -17,3 +17,6 @@ DAY5: QUESTION 1: https://www.hackerrank.com/challenges/insertionsort1/problem?i
 
 DAY6: QUESTION 1: https://www.hackerrank.com/challenges/runningtime/problem?isFullScreen=true
       QUESTION 2: https://www.hackerrank.com/challenges/quicksort1/problem?isFullScreen=true
+
+DAY7: QUESTION 1:https://www.hackerrank.com/challenges/manasa-and-stones/problem?isFullScreen=true
+
