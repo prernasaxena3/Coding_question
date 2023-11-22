@@ -22,3 +22,5 @@ DAY7: QUESTION 1:https://www.hackerrank.com/challenges/manasa-and-stones/problem
       QUESTION 2: https://www.hackerrank.com/challenges/service-lane/problem?isFullScreen=true
       QUESTION 3: https://www.hackerrank.com/challenges/camelcase/problem?isFullScreen=true
       QUESTION 4: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true
+
+DAY8: QUESTION 1: https://leetcode.com/problems/two-sum/
