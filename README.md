@@ -24,3 +24,6 @@ DAY7: QUESTION 1:https://www.hackerrank.com/challenges/manasa-and-stones/problem
       QUESTION 4: https://www.hackerrank.com/challenges/hackerrank-in-a-string/problem?isFullScreen=true
 
 DAY8: QUESTION 1: https://leetcode.com/problems/two-sum/
+
+DAY9: QUESTION 1: https://leetcode.com/problems/palindrome-number/
+      QUESTION 2: https://leetcode.com/problems/valid-parentheses/
