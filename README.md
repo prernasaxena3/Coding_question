@@ -32,3 +32,5 @@ DAY10: QUESTION 1: https://leetcode.com/problems/roman-to-integer/
        QUESTION 2: https://leetcode.com/problems/remove-element/
 
 DAY11: QUESTION 1: https://leetcode.com/problems/search-insert-position/
+
+DAY12: QUESTION 1: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
